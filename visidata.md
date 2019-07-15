@@ -1,4 +1,8 @@
 # VisiData è un tool per riga di comando molto potente ...
+repository IT: https://github.com/ondata/guidaVisiData
+repository EN: http://visidata.org/docs/
+
+![screen](./imgs/vdlogo.png)
 
 ## Dataset ISTAT
 

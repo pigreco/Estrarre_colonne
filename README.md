@@ -8,7 +8,7 @@ Semplificare grossi dataset è un lavoro pesante e la riga di comando è l'ambie
 
 ## Tools da riga di comando
 
-- VisiData
-- Miller
+- [VisiData](./visidata.md)
+- [Miller](./miller.md)
 
 
