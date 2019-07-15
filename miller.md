@@ -1,6 +1,6 @@
 # Miller è un tool da riga di comando molto potente...
-Guida in 10 minuti: http://johnkerl.org/miller/doc/10-min.html
-repository: https://github.com/johnkerl/miller
+- Guida in 10 minuti: http://johnkerl.org/miller/doc/10-min.html
+- repository: https://github.com/johnkerl/miller
 
 ## segue un esempio semplice ma potente per estrazione di colonne da un dataset con oltre 150 colonne.
 
